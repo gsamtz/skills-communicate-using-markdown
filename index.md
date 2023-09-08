@@ -1,10 +1,10 @@
 # Preparing Your Markdown Repository 🥳
-1. Clone the project repository.
+- [ ] Clone the project repository
 ```
 https://github.com/gsamtz/skills-communicate-using-markdown.git
 ```
-2. Open **index.md** in your code/text editor of choice.
-3. Make any necessary changes to the file and call it a day (●'◡'●).
+- [ ] Open **index.md** in your code/text editor of choice
+- [ ] Make any necessary changes to the file and call it a day (●'◡'●).
 
 ## Celebrate!!
 ![GIF of Nyantocat](https://octodex.github.com/images/nyantocat.gif)
