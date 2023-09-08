@@ -8,3 +8,12 @@ https://github.com/gsamtz/skills-communicate-using-markdown.git
 
 ## Celebrate!!
 ![GIF of Nyantocat](https://octodex.github.com/images/nyantocat.gif)
+
+### Sample Java Code
+``` Java
+public class Sample {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+```
